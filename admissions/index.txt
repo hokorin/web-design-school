@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[7288,["874","static/chunks/874-337b4094b64e0ad0.js","177","static/chunks/app/layout-53ca9913bf164d16.js"],"default"]
+3:I[7555,[],""]
+4:I[1295,[],""]
+5:I[9010,["874","static/chunks/874-337b4094b64e0ad0.js","177","static/chunks/app/layout-53ca9913bf164d16.js"],"default"]
+6:I[894,[],"ClientPageRoot"]
+7:I[3560,["874","static/chunks/874-337b4094b64e0ad0.js","125","static/chunks/app/admissions/page-a72907997f1bfb10.js"],"default"]
+a:I[9665,[],"MetadataBoundary"]
+c:I[9665,[],"OutletBoundary"]
+f:I[4911,[],"AsyncMetadataOutlet"]
+11:I[9665,[],"ViewportBoundary"]
+13:I[6614,[],""]
+:HL["/web-design-school/_next/static/css/7dab5614bd7c31cc.css","style"]
+0:{"P":null,"b":"yW2UpnYtAIfKUvFezuKUM","p":"/web-design-school","c":["","admissions",""],"i":false,"f":[[["",{"children":["admissions",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/web-design-school/_next/static/css/7dab5614bd7c31cc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_68b9d5 __variable_8d5327 __variable_edac0f antialiased","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center h-screen text-center px-4","children":[["$","h1",null,{"className":"text-5xl md:text-5xl font-semibold text-gray-100","children":"404"}],["$","h1",null,{"className":"text-2xl md:text-3xl font-semibold mt-6","children":"This page has not been generated"}],["$","p",null,{"className":"mt-4 text-xl md:text-2xl text-gray-500","children":"Tell me what you would like on this page"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L5",null,{}]]}]}]]}],{"children":["admissions",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L6",null,{"Component":"$7","searchParams":{},"params":{},"promises":["$@8","$@9"]}],["$","$La",null,{"children":"$Lb"}],null,["$","$Lc",null,{"children":["$Ld","$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","3xyAdLgoxnzB_L655uJxo",{"children":[["$","$L11",null,{"children":"$L12"}],null]}],null]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
+14:"$Sreact.suspense"
+15:I[4911,[],"AsyncMetadata"]
+8:{}
+9:{}
+b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"}]}]
+e:null
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:null
+16:{"metadata":[["$","title","0",{"children":"web-design-school"}],["$","meta","1",{"name":"description","content":"未来のWebデザイナーを育成する専門学校"}]],"error":null,"digest":"$undefined"}
+10:{"metadata":"$16:metadata","error":null,"digest":"$undefined"}
